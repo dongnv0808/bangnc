@@ -1,0 +1,33 @@
+body {
+    padding: 50px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+th, td {
+    padding: 20px;
+    border: 1px solid black;
+}
+th {
+    font-size: 16px;
+    font-family: 'patua One', cursive;
+    font-weight: 400;
+    color: #fff;
+    padding: 20px;
+    background-color: #d61b06;
+    border-color: white;
+}
+
+td {
+    font-family: 'Open Sans', sans-serif;
+    font-size:13px;
+    border-bottom:1px solid #e0e0e0;
+    padding: 20px;
+    color:#5f6062;
+}
+/* .hover {
+    background: red;
+} */
